@@ -1,10 +1,14 @@
 # AllLightsOnMeTrailer.github.io
 Website for the hit video game "All Lights On Me" (University project)
+
 # About this game
 aaa
+
 # Playtester reviews
-"As a lifelong gamer, I think this may be one of the mos amazing stealth games ever created." - *Michael Menth, lifelong gamer.*
-""
+"As a lifelong gamer, I think this may be one of the mos amazing stealth games ever created." - *Michael Menth, lifelong gamer.*  
+"Simply amazing" - *FSI*  
+"Flawless" - *Respected Games Journalist*  
+
 # SYSTEM REQUIREMENTS
 
 MINIMUM:  
