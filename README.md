@@ -1,7 +1,10 @@
 # AllLightsOnMeTrailer.github.io
 Website for the hit video game "All Lights On Me" (University project)  
 
-![Placeholder logo](https://raw.githubusercontent.com/FabricioAguilera/AllLightsOnMeTrailer.github.io/main/Logo.png)
+![Placeholder logo](https://raw.githubusercontent.com/FabricioAguilera/AllLightsOnMeTrailer.github.io/main/Logo.png)  
+https://user-images.githubusercontent.com/74210640/161343827-c7247cb4-d596-451c-a203-baecb14644c6.mp4
+
+
 
 # About this game
 Today is the day. The day, to regain your freedom. After ben wrongfully imprisoned, seize the prisonwide blackout to escape this prison once and for all!  
