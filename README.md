@@ -1,12 +1,15 @@
 # AllLightsOnMeTrailer.github.io
-Website for the hit video game "All Lights On Me" (University project)
+Website for the hit video game "All Lights On Me" (University project)  
+
+![Placeholder logo](https://raw.githubusercontent.com/FabricioAguilera/AllLightsOnMeTrailer.github.io/main/Logo.png)
 
 # About this game
-aaa
+Today is the day. The day, to regain your freedom. After ben wrongfully imprisoned, seize the prisonwide blackout to escape this prison once and for all!  
+Evade lights, take cover and sneak your way through 2 different prison levels to escape!  
 
 # Playtester reviews
-"As a lifelong gamer, I think this may be one of the mos amazing stealth games ever created." - *Michael Menth, lifelong gamer.*  
-"Simply amazing" - *FSI*  
+"As a lifelong gamer, I think this may be one of the mos amazing stealth games ever created." - *Michael Menth, lifelong gamer*  
+"Simply amazing" - *FSI, Fachschaft Informatik University of Tübingen*  
 "Flawless" - *Respected Games Journalist*  
 
 # SYSTEM REQUIREMENTS
