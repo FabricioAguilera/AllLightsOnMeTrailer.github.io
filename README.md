@@ -17,7 +17,7 @@ Today is the day. The day, to regain your freedom. After ben wrongfully imprison
 Evade lights, take cover and sneak your way through 2 different prison levels to escape!  
 
 # Playtester reviews
-"As a lifelong gamer, I think this may be one of the mos amazing stealth games ever created." - *Michael Menth, lifelong gamer*  
+"As a lifelong gamer, I think this may be one of the most amazing stealth games ever created." - *Michael Menth, lifelong gamer*  
 "Simply amazing" - *FSI, Fachschaft Informatik University of Tübingen*  
 "Flawless" - *Respected Games Journalist*  
 
