@@ -8,9 +8,9 @@ Website for the hit video game "All Lights On Me" (University project)
 https://user-images.githubusercontent.com/74210640/161343827-c7247cb4-d596-451c-a203-baecb14644c6.mp4-->  
 
 <!--This one dows, if you upload your gameplay video trailer to youtube then click on share and paste the code here like down below!, like in this video https://www.youtube.com/watch?v=hjMx8EuyZJ8-->  
-<!--you can change the video window size by changing the width and height values
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->  
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--you can change the video window size by changing the width and height values-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--<iframe width="1120" height="630" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 # About this game
 Today is the day. The day, to regain your freedom. After ben wrongfully imprisoned, seize the prisonwide blackout to escape this prison once and for all!  
