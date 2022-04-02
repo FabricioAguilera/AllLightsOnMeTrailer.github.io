@@ -1,14 +1,14 @@
 # AllLightsOnMeTrailer.github.io
 Website for the hit video game "All Lights On Me" (University project)  
 
+<!-- These ones below dont work, chief
 ![Placeholder logo](https://raw.githubusercontent.com/FabricioAguilera/AllLightsOnMeTrailer.github.io/main/Logo.png)  
 ![Placeholder video](https://user-images.githubusercontent.com/74210640/161343827-c7247cb4-d596-451c-a203-baecb14644c6.mp4)  
-https://user-images.githubusercontent.com/74210640/161343827-c7247cb4-d596-451c-a203-baecb14644c6.mp4  
-<p-align="center">  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>  
+https://user-images.githubusercontent.com/74210640/161343827-c7247cb4-d596-451c-a203-baecb14644c6.mp4-->  
 
-
+<!--This one dows, if you upload your gameplay video trailer to youtube then share it and paste the code here like down below!-->  
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->  
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # About this game
 Today is the day. The day, to regain your freedom. After ben wrongfully imprisoned, seize the prisonwide blackout to escape this prison once and for all!  
