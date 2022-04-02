@@ -1,4 +1,4 @@
-# AllLightsOnMeTrailer.github.io
+# All Lights On Me Trailer  
 Website for the hit video game "All Lights On Me" (University project)  
 
 
